@@ -1,6 +1,20 @@
 # Tic-Tae-Toe
 Tic-Tae-Toe game made using python.
 
+---
+
+# Rules for playing Tic-Tac-Toe:
+
+The game is played on a 3x3 grid (a total of 9 squares).
+Two players participate: one uses “X” and the other uses “O”.
+Players take turns placing their symbols on the empty squares.
+The objective is to get three of your marks in a row (either horizontally, vertically, or diagonally).
+The first player to achieve this wins the game.
+If all 9 squares are filled and no player has three in a row, the game ends in a tie.
+Remember, Tic-Tac-Toe is not purely a game of chance; some strategies can help you optimize your skills and become an expert player! 🎮👾
+
+---
+
  # How to make a PR in a Project 🟢
 
 If you are interested to contribute in this project how to start contribute
